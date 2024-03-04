@@ -1,0 +1,15 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    ul {
+        display: inherit;
+        list-style-type: none;
+        li {
+            margin: 0 5em;
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+        }
+    }
+}
